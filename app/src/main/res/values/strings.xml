@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">GithubSearch</string>
+    <string name="no_data">No Data!</string>
+    <string name="loading">Loading…</string>
+    <string name="company">Company :\u0020</string>
+    <string name="location">Location :\u0020</string>
+    <string name="followers">Followers :\u0020</string>
+    <string name="following">Following :\u0020</string>
+    <string name="default_query">Android</string>
+    <string name="search">Search</string>
+</resources>
